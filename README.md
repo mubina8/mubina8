@@ -104,7 +104,7 @@ Applied LIME (XAI) to Bengali BERT-based augmentation models — one of the few 
 ### 📫 Reach me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mubina-ashrafi-6bb695193/)  
-- ⚡ [HackerRank](https://www.hackerrank.com/UpsideDown) — Problem Solving Silver Badge  
+- ⚡ [HackerRank](https://www.hackerrank.com/UpsideDown) — Problem Solving Golden Badge  
 
 ---
 
