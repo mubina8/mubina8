@@ -1,3 +1,4 @@
+![Banner](banner.svg)
 <h1 align="center">Hi, I'm Mubina Ashrafi 👋</h1>
 
 <p align="center">
