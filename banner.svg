@@ -1,0 +1,57 @@
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="200" fill="#0d1117" rx="12"/>
+
+  <line x1="60" y1="40" x2="160" y2="90" stroke="#1f6feb" stroke-width="0.5" opacity="0.5"/>
+  <line x1="160" y1="90" x2="280" y2="55" stroke="#1f6feb" stroke-width="0.5" opacity="0.5"/>
+  <line x1="280" y1="55" x2="380" y2="110" stroke="#1f6feb" stroke-width="0.5" opacity="0.4"/>
+  <line x1="380" y1="110" x2="500" y2="70" stroke="#1f6feb" stroke-width="0.5" opacity="0.4"/>
+  <line x1="500" y1="70" x2="620" y2="120" stroke="#1f6feb" stroke-width="0.5" opacity="0.3"/>
+  <line x1="160" y1="90" x2="380" y2="110" stroke="#238636" stroke-width="0.5" opacity="0.3"/>
+  <line x1="280" y1="55" x2="500" y2="70" stroke="#238636" stroke-width="0.5" opacity="0.3"/>
+  <line x1="60" y1="40" x2="280" y2="55" stroke="#8957e5" stroke-width="0.5" opacity="0.3"/>
+  <line x1="380" y1="110" x2="620" y2="120" stroke="#8957e5" stroke-width="0.5" opacity="0.25"/>
+  <line x1="160" y1="90" x2="500" y2="70" stroke="#1f6feb" stroke-width="0.5" opacity="0.2"/>
+
+  <circle cx="60" cy="40" r="4" fill="#238636" opacity="0.8"/>
+  <circle cx="160" cy="90" r="5" fill="#1f6feb" opacity="0.9"/>
+  <circle cx="280" cy="55" r="4" fill="#8957e5" opacity="0.8"/>
+  <circle cx="380" cy="110" r="5" fill="#238636" opacity="0.9"/>
+  <circle cx="500" cy="70" r="4" fill="#1f6feb" opacity="0.8"/>
+  <circle cx="620" cy="120" r="3.5" fill="#8957e5" opacity="0.7"/>
+  <circle cx="60" cy="40" r="8" fill="none" stroke="#238636" stroke-width="0.5" opacity="0.4"/>
+  <circle cx="160" cy="90" r="10" fill="none" stroke="#1f6feb" stroke-width="0.5" opacity="0.4"/>
+  <circle cx="380" cy="110" r="9" fill="none" stroke="#238636" stroke-width="0.5" opacity="0.3"/>
+
+  <text x="48" y="108" font-family="'Courier New', monospace" font-size="28" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Mubina Ashrafi</text>
+  <text x="49" y="132" font-family="'Courier New', monospace" font-size="13" fill="#58a6ff" letter-spacing="1">AI Engineer  ·  NLP  ·  Computer Vision  ·  Recommendation Systems</text>
+
+  <rect x="48" y="150" width="90" height="22" rx="11" fill="#1c2d3a" stroke="#1f6feb" stroke-width="0.5"/>
+  <text x="93" y="165" font-family="'Courier New', monospace" font-size="11" fill="#58a6ff" text-anchor="middle">Transformers</text>
+
+  <rect x="148" y="150" width="56" height="22" rx="11" fill="#1d2d1e" stroke="#238636" stroke-width="0.5"/>
+  <text x="176" y="165" font-family="'Courier New', monospace" font-size="11" fill="#3fb950" text-anchor="middle">FAISS</text>
+
+  <rect x="214" y="150" width="50" height="22" rx="11" fill="#1d2d1e" stroke="#238636" stroke-width="0.5"/>
+  <text x="239" y="165" font-family="'Courier New', monospace" font-size="11" fill="#3fb950" text-anchor="middle">YOLO</text>
+
+  <rect x="274" y="150" width="58" height="22" rx="11" fill="#2d1c2e" stroke="#8957e5" stroke-width="0.5"/>
+  <text x="303" y="165" font-family="'Courier New', monospace" font-size="11" fill="#d2a8ff" text-anchor="middle">Docker</text>
+
+  <rect x="342" y="150" width="56" height="22" rx="11" fill="#2d1c2e" stroke="#8957e5" stroke-width="0.5"/>
+  <text x="370" y="165" font-family="'Courier New', monospace" font-size="11" fill="#d2a8ff" text-anchor="middle">ONNX</text>
+
+  <rect x="408" y="150" width="68" height="22" rx="11" fill="#2d2209" stroke="#9e6a03" stroke-width="0.5"/>
+  <text x="442" y="165" font-family="'Courier New', monospace" font-size="11" fill="#e3b341" text-anchor="middle">FastAPI</text>
+
+  <rect x="486" y="150" width="74" height="22" rx="11" fill="#2d2209" stroke="#9e6a03" stroke-width="0.5"/>
+  <text x="523" y="165" font-family="'Courier New', monospace" font-size="11" fill="#e3b341" text-anchor="middle">PyTorch</text>
+
+  <rect x="48" y="80" width="3" height="36" rx="1.5" fill="#238636"/>
+  <text x="48" y="74" font-family="'Courier New', monospace" font-size="10" fill="#3fb950" opacity="0.7">Junior AI Engineer @ Technonext Ltd.</text>
+
+  <circle cx="645" cy="48" r="28" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="645" y="43" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="middle">Dhaka</text>
+  <text x="645" y="55" font-family="'Courier New', monospace" font-size="9" fill="#8b949e" text-anchor="middle">BD</text>
+
+  <rect x="48" y="186" width="584" height="0.5" fill="#30363d" opacity="0.6"/>
+</svg>
